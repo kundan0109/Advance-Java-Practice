@@ -21,6 +21,7 @@ public class Star08 {
 /*
 
  *****
+
  ***
  *
 
